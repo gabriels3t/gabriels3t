@@ -15,7 +15,7 @@
   <hr>
 <div>  
   <a href="https://www.linkedin.com/in/gabriel-oliveira-data-science" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-    <a href=" http://lattes.cnpq.br/3428434973608100" target="_blank"><img height="30" width="90" src="https://unisal.br/wp-content/themes/unisal-2.0/images/icon-lattes.png" target="_blank"></a> 
+    <a href="http://lattes.cnpq.br/3428434973608100" target="_blank"><img height="30" width="90" src="https://unisal.br/wp-content/themes/unisal-2.0/images/icon-lattes.png" target="_blank"></a> 
  
 
 
