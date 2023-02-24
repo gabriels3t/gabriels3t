@@ -23,6 +23,6 @@
 </div>
 <hr>
 
-- 🔭 Estou trabalhando em uma pesquisa usando o método de monte carlo para o transporte de nêutrons
-- 🌱 Aprendendo inteligência artificial e ciência dados com python
+- 🔭
+- 🌱 
 
